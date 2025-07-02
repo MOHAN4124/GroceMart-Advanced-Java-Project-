@@ -157,7 +157,6 @@ lib/ojdbc8.jar
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here showing:*
 - Login screen
 - ![Screenshot 2025-06-25 230742](https://github.com/user-attachments/assets/0844589a-e5eb-4060-8355-15fea6fc4d75)
 
